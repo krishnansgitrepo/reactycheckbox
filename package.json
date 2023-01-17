@@ -1,0 +1,30 @@
+{
+  "name": "reactycheckbox",
+  "version": "1.0.0",
+  "description": "checkbox control",
+  "default": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnansgitrepo/reactycheckbox.git"
+  },
+  "keywords": [
+    "checkbox"
+  ],
+  "author": "vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnansgitrepo/reactycheckbox/issues"
+  },
+  "homepage": "https://github.com/krishnansgitrepo/reactycheckbox#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
